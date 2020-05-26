@@ -1,3 +1,14 @@
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  width: 125;
+}
+</style>
+
+
 ## Abstract
 
 Knowledge graph embeddings are supervised learning models that learn vector representations of nodes and edges of labeled, directed multigraphs. We describe their design rationale, and explain why they are receiving growing attention within the burgeoning graph representation learning community. We highlight their limitations, open research directions, and real-world applicative scenarios. Besides a theoretical overview, we also provide a hands-on session, where we show how to use such models in practice.
@@ -42,6 +53,9 @@ The tutorial is of interest for either academic research and industry practition
 
 **Presentation Style:** Slide deck presentation and Jupyter notebook/Colab tutorials for the hands-on session.
 
+
+
+[![](./img/luca.jpg)](img/luca.jpg){: .image-left} **Luca Costabello** is research scientist in Accenture Labs Dublin. His research interests span knowledge graphs applications, machine learning for graphs, and explainable AI. [Personal Web Page](https://luca.costabello.info/)
 
 <img src="img/luca.jpg" width="125"> **Luca Costabello** is research scientist in Accenture Labs Dublin. His research interests span knowledge graphs applications, machine learning for graphs, and explainable AI. [Personal Web Page](https://luca.costabello.info/)
 
