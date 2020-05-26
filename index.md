@@ -4,7 +4,6 @@
   margin-left: auto;
   margin-right: auto;
   float: right;
-  width: 125;
 }
 </style>
 
@@ -54,15 +53,10 @@ The tutorial is of interest for either academic research and industry practition
 **Presentation Style:** Slide deck presentation and Jupyter notebook/Colab tutorials for the hands-on session.
 
 
+## Organizers
 
 [![](./img/luca.jpg)](img/luca.jpg){: .image-left} **Luca Costabello** is research scientist in Accenture Labs Dublin. His research interests span knowledge graphs applications, machine learning for graphs, and explainable AI. [Personal Web Page](https://luca.costabello.info/)
 
-<img src="img/luca.jpg" width="125"> **Luca Costabello** is research scientist in Accenture Labs Dublin. His research interests span knowledge graphs applications, machine learning for graphs, and explainable AI. [Personal Web Page](https://luca.costabello.info/)
+[![](./img/sumit.jpg)](img/sumit.jpg){: .image-left} **Sumit Pai** is a research engineer at Accenture Labs Dublin. His research interests include knowledge graphs, representational learning, computer vision and its applications. Sumit has also worked as an engineer (Computer Vision) at Robert Bosch, India. He has done his Masters in Neural Information Processing from University of Tübingen, Germany.
 
-<img src="img/sumit.jpg" width="125"> **Sumit Pai** is a research engineer at Accenture Labs Dublin. His research interests include knowledge graphs, representational learning, computer vision and its applications. Sumit has also worked as an engineer (Computer Vision) at Robert Bosch, India. He has done his Masters in Neural Information Processing from University of Tübingen, Germany.
-
-## Presenters
-
-<img src="img/luca.jpg" width="125"> |**Luca Costabello** is research scientist in Accenture Labs Dublin. His research interests span knowledge graphs applications, machine learning for graphs, and explainable AI. [Personal Web Page](https://luca.costabello.info/)|
-<img src="img/sumit.jpg" width="125">|**Sumit Pai** is a research engineer at Accenture Labs Dublin. His research interests include knowledge graphs, representational learning, computer vision and its applications. Sumit has also worked as an engineer (Computer Vision) at Robert Bosch, India. He has done his Masters in Neural Information Processing from University of Tübingen, Germany|
-<img src="img/nick.jpg" width="125">|**Nicholas McCarthy** is a research scientist at Accenture Labs. He holds a Bachelors in Computer Science and a PhD in Medical Imaging from University College Dublin. Prior to joining Accenture Labs Nicholas worked at the INSIGHT Research Center and the Complex and Adaptive Systems Laboratory in UCD, where he was a Teaching Assistant for a number of BSc and MSc Courses including: Intro. to A.I., Intro. to Image Analysis, Compiler Construction, and Software Engineering. He is a contributor to the open source AmpliGraph library for knowledge graph embeddings, and has significant experience applying these methods in industrial applications. His research interests include computer vision, and graph representation learning. Recent work has been published at SIGGRAPH and IAAI.|
+[![](./img/nick.jpg)](img/nick.jpg){: .image-left} **Nicholas McCarthy** is a research scientist at Accenture Labs. He holds a Bachelors in Computer Science and a PhD in Medical Imaging from University College Dublin. Prior to joining Accenture Labs Nicholas worked at the INSIGHT Research Center and the Complex and Adaptive Systems Laboratory in UCD, where he was a Teaching Assistant for a number of BSc and MSc Courses including: Intro. to A.I., Intro. to Image Analysis, Compiler Construction, and Software Engineering. He is a contributor to the open source AmpliGraph library for knowledge graph embeddings, and has significant experience applying these methods in industrial applications. His research interests include computer vision, and graph representation learning. Recent work has been published at SIGGRAPH and IAAI.
