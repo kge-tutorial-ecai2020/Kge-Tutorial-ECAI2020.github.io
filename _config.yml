@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: "Knowledge Graph Embeddings: From Theory to Practice"
+markdown:kramdown
+url: "http://KgeTutorialECAI2020.github.io"
