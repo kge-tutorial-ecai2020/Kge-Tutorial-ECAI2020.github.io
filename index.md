@@ -1,6 +1,7 @@
 <style type="text/css">
 .image-left {
   display: block;
+  margin-right: 10px;
   float: left;
 }
 </style>
@@ -46,19 +47,12 @@ The tutorial is of interest for either academic research and industry practition
 
 ## Other Details
 
-**Proposed Format:** Standard (Half-day)
+**Format:** Standard (Half-day)
 
 **Presentation Style:** Slide deck presentation and Jupyter notebook/Colab tutorials for the hands-on session.
 
 
 ## Organizers
-
-|   	|   	|
-|		|		|
-|   	|   	|
-|   	|   	|
-
-
 
 
 [![](./img/luca.jpg)](img/luca.jpg){: .image-left} **Luca Costabello** is research scientist in Accenture Labs Dublin. His research interests span knowledge graphs applications, machine learning for graphs, and explainable AI. [Personal Web Page](https://luca.costabello.info/)
