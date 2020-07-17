@@ -64,3 +64,8 @@ The tutorial is of interest for either academic research and industry practition
 <br/>
 
 [![](./img/nick.jpg)](img/nick.jpg){: .image-left} [**Nicholas McCarthy**](https://www.linkedin.com/in/nicholas-mccarthy-5a678a34/?originalSubdomain=ie) is a research scientist at Accenture Labs. He holds a Bachelors in Computer Science and a PhD in Medical Imaging from University College Dublin. Prior to joining Accenture Labs Nicholas worked at the INSIGHT Research Center and the Complex and Adaptive Systems Laboratory in UCD, where he was a Teaching Assistant for a number of BSc and MSc Courses including: Intro. to A.I., Intro. to Image Analysis, Compiler Construction, and Software Engineering. He is a contributor to the open source AmpliGraph library for knowledge graph embeddings, and has significant experience applying these methods in industrial applications. His research interests include computer vision, and graph representation learning. Recent work has been published at SIGGRAPH and IAAI.
+
+<br/>
+
+[![](./img/adrianna.jpg)](img/adrianna.jpg){: .image-left} [**Adrianna Janik**](https://adrijanik.github.io/) is a research engineer at Accenture Labs Dublin. Her research interests are interpretability in machine learning, deep learning, and recently knowledge graphs. She has double Masters in Data Science with a minor in entrepreneurship from the European Institute of Innovation and Technology (EIT), at the University of Nice - Sophia Antipolis and at the Royal Institute of Technology, Stockholm. During studies, she did her thesis internship at the Montreal Institute for Learning Algorithms. She also has a Bachelors in Control Engineering and Robotics from the Wroclaw University of Technology and used to work as a software engineer at Nokia.
+
