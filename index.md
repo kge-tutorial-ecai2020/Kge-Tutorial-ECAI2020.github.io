@@ -68,3 +68,4 @@ The tutorial is of interest for either academic research and industry practition
 <br/>
 
 [![](./img/adrianna.jpg)](img/adrianna.jpg){: .image-left} [**Adrianna Janik**](https://adrijanik.github.io/) is a research engineer at Accenture Labs Dublin. Her research interests are interpretability in machine learning, deep learning, and recently knowledge graphs. She has double Masters in Data Science with a minor in entrepreneurship from the European Institute of Innovation and Technology (EIT), at the University of Nice - Sophia Antipolis and at the Royal Institute of Technology, Stockholm. During studies, she did her thesis internship at the Montreal Institute for Learning Algorithms. She also has a Bachelors in Control Engineering and Robotics from the Wroclaw University of Technology and used to work as a software engineer at Nokia.
+
