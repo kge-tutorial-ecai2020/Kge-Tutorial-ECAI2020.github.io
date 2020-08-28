@@ -5,9 +5,9 @@
   float: left;
 }
   .btn {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
+  background-color: white;
+  border: 2px solid #4CAF50;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -18,9 +18,22 @@
   display: flex; 
   justify-content: center;
 }
+.btn:hover {
+  background-color: #4CAF50;
+  color: white;
+}
 </style>
 
+## How to join the tutorial?
 
+1. Go through [**FREE** ECAI 2020 conference registration on their website](https://digital.ecai2020.eu/sign-up/).
+2. [Log-in to your account](https://digital.ecai2020.eu/log-in/) (if you are not logged in already.
+3. Go to tutorial page by:
+  - clicking the green button below &#8595;.
+  - Navigating to the Ada Lovelace Hall (in the North Campus - top of the map) on the conference map, selecting Tutorials on the righ hand side panel, scroll to the 4th of September tutorials and choose **Knowledge Graph Embeddings: From Theory to Practice**.
+  
+4. Select **Live Stream** in the bottom of the page, you will be asked for permission to share data with UNDERLINE platform where the tutorial is streamed, ACCEPT and join the tutorial room.
+  
 ### [Join the Tutorial](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/){: .btn}
 
 ## Abstract
