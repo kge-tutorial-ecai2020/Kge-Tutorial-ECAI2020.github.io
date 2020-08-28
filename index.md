@@ -4,8 +4,16 @@
   margin-right: 10px;
   float: left;
 }
+  .btn {
+  text-align: center;
+  border: 1px solid coral;
+  height: 40vh;
+  width: 50vw;
+}
 </style>
 
+
+### [Join the Tutorial](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/){: .btn}
 
 ## Abstract
 
