@@ -5,9 +5,9 @@
   float: left;
 }
   .btn {
-  background-color: white;
+  background-color: #4CAF50;
   border: 2px solid #4CAF50;
-  color: black;
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -19,8 +19,9 @@
   justify-content: center;
 }
 .btn:hover {
-  background-color: #4CAF50;
-  color: white;
+  background-color: white;
+  border: 2px solid #4CAF50;  
+  color: black;
 }
 </style>
 
