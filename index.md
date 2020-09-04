@@ -25,14 +25,14 @@
 }
 </style>
 
-## Thank you for joining us!
+## Thank you for joining us! :hearts:
 The tutorial is now over and as promised we share the slides and resources:
 
-[Hands-on session Colab tutorial](http://bit.ly/kge-tutorial)
+:pencil2: [Hands-on session Colab tutorial](http://bit.ly/kge-tutorial)
 
-[Slides]()
+:file_folder: <a href="ECAI-20_KGE_tutorial.pdf" class="image fit">Slides</a>
 
-[Check out our other tutorials as well.](https://docs.ampligraph.org/en/1.3.2/tutorials.html)
+:pencil2: :pencil2: [Check out our other tutorials as well.](https://docs.ampligraph.org/en/1.3.2/tutorials.html)
 
 
 
