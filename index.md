@@ -25,6 +25,17 @@
 }
 </style>
 
+## Thank you for joining us!
+The tutorial is now over and as promised we share the slides and resources:
+
+[Hands-on session Colab tutorial](http://bit.ly/kge-tutorial)
+
+[Slides]()
+
+[Check out our other tutorials as well.](https://docs.ampligraph.org/en/1.3.2/tutorials.html)
+
+
+
 ## How to join the tutorial?
 
 1. Go through [**FREE** ECAI 2020 conference registration on their website.](https://digital.ecai2020.eu/sign-up/)
