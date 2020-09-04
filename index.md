@@ -28,12 +28,11 @@
 ## Thank you for joining us! :hearts:
 The tutorial is now over and as promised we share the slides and resources:
 
-:pencil2: [Hands-on session Colab tutorial](http://bit.ly/kge-tutorial)
+:pencil2: Hands-on session Colab tutorial [link](http://bit.ly/kge-tutorial), <a href="ECAI_2020_KGE_Tutorial_Hands_on_Session.ipynb" class="image fit">download</a>
 
 :file_folder: <a href="ECAI-20_KGE_tutorial.pdf" class="image fit">Slides</a>
 
 :pencil2: :pencil2: [Check out our other tutorials as well.](https://docs.ampligraph.org/en/1.3.2/tutorials.html)
-
 
 
 ## How to join the tutorial?
