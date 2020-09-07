@@ -26,7 +26,7 @@
 </style>
 
 ## Thank you for joining us! :hearts:
-The tutorial is now over and as promised we share the slides and resources:
+The tutorial is now over. Slides and resources:
 
 :pencil2: Hands-on session Colab tutorial [link](http://bit.ly/kge-tutorial), <a href="ECAI_2020_KGE_Tutorial_Hands_on_Session.ipynb" class="image fit">download</a>
 
@@ -84,12 +84,11 @@ That includes artificial intelligence scientists, engineers, and students famili
 The tutorial is of interest for either academic research and industry practitioners.
 
 
-## Other Details
+## Tutorial Material
 
-**Format:** Standard (Half-day)
+**[Slides](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
 
-**Presentation Style:** Slide deck presentation and Jupyter notebook/Colab tutorials for the hands-on session.
-
+**[Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
 
 ## Organizers
 
