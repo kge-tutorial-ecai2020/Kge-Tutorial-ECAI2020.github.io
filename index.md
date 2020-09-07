@@ -64,7 +64,7 @@ The goal of the tutorial is to provide answers to the following questions:
 
 ## Outline
 
-**[Slides available soon]**
+**[Slides available here](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
 
 - **Introduction.** Gentle introduction to knowledge graphs, and why graph-based knowledge representation matters in knowledge discovery tasks. Motivations for learning representations of nodes and edges, by describing the task of predicting missing links in graphs and presenting why such problem is hard to solve and requires ad-hoc machine learning models. In this part we also summarize the prerequisites for the remainder of the tutorial
 - **Anatomy of a Knowledge Graph Embedding Models** Description and walk-through of a dissected knowledge graph embedding model, including a detailed description of the most popular varieties of components published in literature. Overview of training and best practices to optimize hyper-parameters.
@@ -72,7 +72,7 @@ The goal of the tutorial is to provide answers to the following questions:
 - **Comparison With Other Paradigms.** Comparison with traditional statistical relational learning, node embeddings, graph neural networks (GNN): supported data modalities, underlying intuitions, tasks, architectures, scalability.
 - **Open Research Questions.** Discussion of recent research directions in the field: support for multi-modal knowledge graphs, more challenging datasets and benchmarks, reproducibility, time-awareness, interpretability and explanations, integration of symbolic reasoning, adversarial robustness.
 - **Applications** Description of downstream machine learning tasks that benefit from KGE (link prediction (for knowledge discovery and knowledge base completion), link-based clustering, entity linking, enhanced classification with background knowledge. We show real-world examples of applied KGE models. We focus on a number of use cases: i) drug side-effect prediction from a protein network, ii) employee-jobs matching, iii) flight delay prediction,iv) generation of flavour compounds for the food industry.
-- **Software Ecosystem and Hands-On Session.** Overview and comparison of most popular software libraries for KGE models. Hands-on session where we will learn how to generate and visualize knowledge graph embeddings by learning from a real-world knowledge graph. We will also learn how to use such embeddings in downstream machine learning tasks such as link prediction and cluster analysis. This hands-on session will be carried out with the Apache-2 licensed, open source [AmpliGraph library](https://github.com/Accenture/AmpliGraph).
+- **Software Ecosystem and [Hands-On Session](http://bit.ly/kge-tutorial).** Overview and comparison of most popular software libraries for KGE models. Hands-on session where we will learn how to generate and visualize knowledge graph embeddings by learning from a real-world knowledge graph. We will also learn how to use such embeddings in downstream machine learning tasks such as link prediction and cluster analysis. This hands-on session will be carried out with the Apache-2 licensed, open source [AmpliGraph library](https://github.com/Accenture/AmpliGraph).
 
 
 ## Target Audience
