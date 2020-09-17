@@ -28,13 +28,13 @@
 
 ## Tutorial Material and Recording
 
-### [Watch the Tutorial Recording (3h:30m) (You must sign up and login to ECAI-20 (No registration Fees))](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/){: .btn}
+### [Watch the Tutorial Recording [3h:30m] - You must sign up and login to ECAI-20 (No registration Fees)](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/){: .btn}
 
-** :file_folder: [Slides [PDF]](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
+:file_folder: **[Slides [PDF]](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
 
-** :pencil2: [Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
+:pencil2: **[Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
 
-:pencil2: :pencil2: [Check out additional KGE tutorial material](https://docs.ampligraph.org/en/1.3.2/tutorials.html)
+:pencil2: **[Check out additional KGE tutorial material](https://docs.ampligraph.org/en/1.3.2/tutorials.html)**
 
 
 [![](./img/outline.jpg)](img/outline.jpg)
