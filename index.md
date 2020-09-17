@@ -28,7 +28,7 @@
 
 ## Tutorial Material and Recording
 
-### [Watch the Tutorial Recording [3h:30m] - You must sign up and login to ECAI-20 (No registration Fees)](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/){: .btn}
+### [Watch the Tutorial Recording [3h:30m] - You must first register to underline.io (Free of charge)](https://underline.io/events/24/sessions/292/lecture/2332-knowledge-graph-embeddings-from-theory-to-practice){: .btn}
 
 :file_folder: **[Slides [PDF]](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
 
