@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "Knowledge Graph Embeddings: From Theory to Practice"
-description: "ECAI 2020 Tutorials, September 4th 2020, Friday, 13:45-17:00 CEST"
+title: "Knowledge Graph Embeddings Tutorial: From Theory to Practice"
+description: "ECAI 2020 Tutorials, Friday September 4th 2020, 13:45-17:00 CEST"
 markdown: kramdown
 url: "http://Kge-Tutorial-ECAI-2020.github.io"
 plugins:

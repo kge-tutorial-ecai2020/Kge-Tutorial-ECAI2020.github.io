@@ -25,26 +25,19 @@
 }
 </style>
 
-## Thank you for joining us! :hearts:
-The tutorial is now over. Slides and resources:
 
-:pencil2: Hands-on session Colab tutorial [link](http://bit.ly/kge-tutorial), <a href="ECAI_2020_KGE_Tutorial_Hands_on_Session.ipynb" class="image fit">download</a>
+## Tutorial Material and Recording
 
-:file_folder: <a href="ECAI-20_KGE_tutorial.pdf" class="image fit">Slides</a>
+### [Watch the Tutorial Recording (3h:30m) (You must sign up and login to ECAI-20 (No registration Fees))](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/){: .btn}
 
-:pencil2: :pencil2: [Check out our other tutorials as well.](https://docs.ampligraph.org/en/1.3.2/tutorials.html)
+** :file_folder: [Slides [PDF]](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
+
+** :pencil2: [Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
+
+:pencil2: :pencil2: [Check out additional KGE tutorial material](https://docs.ampligraph.org/en/1.3.2/tutorials.html)
 
 
-## How to join the tutorial?
-
-1. Go through [**FREE** ECAI 2020 conference registration on their website.](https://digital.ecai2020.eu/sign-up/)
-2. [Log-in to your account](https://digital.ecai2020.eu/log-in/) (if you are not logged in already).
-3. Go to the tutorial page by:
-  - Clicking the green button below &#8595;.
-  - Navigating to the Ada Lovelace Hall (in the North Campus - top of the map) on the conference map, selecting Tutorials on the right-hand side panel, scroll to the 4th of September tutorials and choose **Knowledge Graph Embeddings: From Theory to Practice**.
-4. Select **Live Stream** in the bottom of the page. ACCEPT when requested to share your data with the UNDERLINE platform where the tutorial will be streamed and join the tutorial room.
-  
-### [Join the Tutorial](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/){: .btn}
+[![](./img/outline.jpg)](img/outline.jpg)
 
 ## Abstract
 
@@ -89,6 +82,8 @@ The tutorial is of interest for either academic research and industry practition
 **[Slides](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
 
 **[Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
+
+** [Recording (3h:30m)](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/) (Sign up and login to ECAI-20 first).
 
 ## Organizers
 
