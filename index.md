@@ -83,7 +83,7 @@ The tutorial is of interest for either academic research and industry practition
 
 **[Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
 
-** [Recording (3h:30m)](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/) (Sign up and login to ECAI-20 first).
+**[Recording (3h:30m)](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/)**. Sign up and login to ECAI-20 first.
 
 ## Organizers
 
