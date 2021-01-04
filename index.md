@@ -66,7 +66,7 @@
 
 Knowledge graph embeddings are supervised learning models that learn vector representations of nodes and edges of labeled, directed multigraphs. We describe their design rationale, and explain why they are receiving growing attention within the burgeoning graph representation learning community. We highlight their limitations, open research directions, and real-world applicative scenarios. Besides a theoretical overview, we also provide a hands-on session, where we show how to use such models in practice.
 
-![](./img/outline.jpg)](img/outline.jpg)
+![](./img/outline.jpg)
 
 
 ## Goal
@@ -102,7 +102,24 @@ That includes artificial intelligence scientists, engineers, and students famili
 
 The tutorial is of interest for either academic research and industry practitioners.
 
+## Cite as
 
+```
+@misc{luca_costabello_2020_4268208,
+  author       = {Luca Costabello and
+                  Sumit Pai and
+                  Nicholas McCarthy and
+                  Adrianna Janik},
+  title        = {{Knowledge Graph Embeddings Tutorial: From Theory 
+                   to Practice}},
+  month        = sep,
+  year         = 2020,
+  note         = {https://kge-tutorial-ecai2020.github.io/},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4268208},
+  url          = {https://doi.org/10.5281/zenodo.4268208}
+}
+```
 
 ## Organizers
 
