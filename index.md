@@ -23,6 +23,28 @@
   border: 2px solid #4CAF50;  
   color: black;
 }
+
+.video-container {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+}
+
+.video-container::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
 </style>
 
 
@@ -34,15 +56,17 @@
 
 :pencil2: **[Check out additional KGE tutorial material](https://docs.ampligraph.org/en/1.3.2/tutorials.html)**
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/gX_KHaU8ChI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/gX_KHaU8ChI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Abstract
 
 Knowledge graph embeddings are supervised learning models that learn vector representations of nodes and edges of labeled, directed multigraphs. We describe their design rationale, and explain why they are receiving growing attention within the burgeoning graph representation learning community. We highlight their limitations, open research directions, and real-world applicative scenarios. Besides a theoretical overview, we also provide a hands-on session, where we show how to use such models in practice.
 
-[![](./img/outline.jpg)](img/outline.jpg)
-
+[![](./img/outline.jpg)](img/outline.jpg)](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)
 
 
 ## Goal
