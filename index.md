@@ -28,20 +28,22 @@
 
 ## Tutorial Material and Recording
 
-### [Watch the Tutorial Recording [3h:30m] - You must first register to underline.io (Free of charge)](https://underline.io/events/24/sessions/292/lecture/2332-knowledge-graph-embeddings-from-theory-to-practice){: .btn}
-
 :file_folder: **[Slides [PDF]](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
 
 :pencil2: **[Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
 
 :pencil2: **[Check out additional KGE tutorial material](https://docs.ampligraph.org/en/1.3.2/tutorials.html)**
 
+<iframe width="854" height="480" src="https://www.youtube.com/embed/gX_KHaU8ChI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[![](./img/outline.jpg)](img/outline.jpg)
 
 ## Abstract
 
 Knowledge graph embeddings are supervised learning models that learn vector representations of nodes and edges of labeled, directed multigraphs. We describe their design rationale, and explain why they are receiving growing attention within the burgeoning graph representation learning community. We highlight their limitations, open research directions, and real-world applicative scenarios. Besides a theoretical overview, we also provide a hands-on session, where we show how to use such models in practice.
+
+[![](./img/outline.jpg)](img/outline.jpg)
+
+
 
 ## Goal
 
@@ -77,13 +79,6 @@ That includes artificial intelligence scientists, engineers, and students famili
 The tutorial is of interest for either academic research and industry practitioners.
 
 
-## Tutorial Material
-
-**[Slides](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)**
-
-**[Jupyter notebook/Colab Hands-On Session](http://bit.ly/kge-tutorial)**
-
-**[Recording (3h:30m)](https://digital.ecai2020.eu/session/knowledge-graph-embeddings-from-theory-to-practice/)**. Sign up and login to ECAI-20 first.
 
 ## Organizers
 
