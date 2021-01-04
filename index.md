@@ -66,7 +66,7 @@
 
 Knowledge graph embeddings are supervised learning models that learn vector representations of nodes and edges of labeled, directed multigraphs. We describe their design rationale, and explain why they are receiving growing attention within the burgeoning graph representation learning community. We highlight their limitations, open research directions, and real-world applicative scenarios. Besides a theoretical overview, we also provide a hands-on session, where we show how to use such models in practice.
 
-[![](./img/outline.jpg)](img/outline.jpg)](https://kge-tutorial-ecai2020.github.io/ECAI-20_KGE_tutorial.pdf)
+![](./img/outline.jpg)](img/outline.jpg)
 
 
 ## Goal
