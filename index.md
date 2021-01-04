@@ -105,13 +105,12 @@ The tutorial is of interest for either academic research and industry practition
 ## Cite as
 
 ```
-@misc{luca_costabello_2020_4268208,
+@misc{kge_tutorial,
   author       = {Luca Costabello and
                   Sumit Pai and
                   Nicholas McCarthy and
                   Adrianna Janik},
-  title        = {{Knowledge Graph Embeddings Tutorial: From Theory 
-                   to Practice}},
+  title        = {Knowledge Graph Embeddings Tutorial: From Theory to Practice},
   month        = sep,
   year         = 2020,
   note         = {https://kge-tutorial-ecai2020.github.io/},
